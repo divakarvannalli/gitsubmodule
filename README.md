@@ -1,2 +1,1 @@
-# gitsubmodule
-gitsubmodule example
+example 1
